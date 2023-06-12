@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/code/PRJ/PlantShop/web/orderDetails.jsp</file>
+            <file>file:/D:/code/PRJ/PlantShop/src/java/Controller/MainController.java</file>
+            <file>file:/D:/code/PRJ/PlantShop/src/java/Controller/ManageOrderDetailsServlet.java</file>
+            <file>file:/D:/code/PRJ/PlantShop/web/META-INF/context.xml</file>
+            <file>file:/D:/code/PRJ/PlantShop/web/manageOrderDetails.jsp</file>
+            <file>file:/D:/code/PRJ/PlantShop/src/java/MyDAO/AccountDAO.java</file>
+            <file>file:/D:/code/PRJ/PlantShop/src/java/MyLib/DBUtils.java</file>
+            <file>file:/D:/code/PRJ/PlantShop/src/java/Controller/LoginServlet.java</file>
+            <file>file:/D:/code/PRJ/PlantShop/src/java/Controller/LogoutServlet.java</file>
+            <file>file:/D:/code/PRJ/PlantShop/web/navBar.jsp</file>
+            <file>file:/D:/code/PRJ/PlantShop/web/orderHistory.jsp</file>
+            <file>file:/D:/code/PRJ/PlantShop/web/admin.jsp</file>
+        </group>
+    </open-files>
+</project-private>
